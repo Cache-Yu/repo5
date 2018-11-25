@@ -7,5 +7,6 @@ public class GitFirst {
         System.out.println("修啊代码");
         System.out.println("hello Git ");
         System.out.println("hello Git ");
+        System.out.println("AAAAA");
     }
 }
